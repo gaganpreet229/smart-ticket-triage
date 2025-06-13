@@ -18,6 +18,6 @@ AI Automation ticket category identified using AI response based on subject and 
 
 
 **##Assumptions**
-Minimal styling - focused on functionality over design
-Using synchronous queue processing for simplicity
-No authentication for simplicity in this demo
+1. Minimal styling - focused on functionality over design
+2. Using synchronous queue processing for simplicity
+3. No authentication for simplicity in this demo
